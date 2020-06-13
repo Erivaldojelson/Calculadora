@@ -1,2 +1,0 @@
-# Calculadora
-Projeto aprendizado calculadora. 
